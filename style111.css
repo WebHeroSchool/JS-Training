@@ -1,0 +1,23 @@
+.body__quote_newspaper {
+  float: left;
+  width: 50%;
+  }
+
+ @import url('https://fonts.googleapis.com/css?family=IBM+Plex+Serif:700&display=swap&subset=cyrillic');
+ .header__title {
+font-family: 'IBM Plex Serif', serif;
+ }
+ 
+.title_italics {
+  font-variant-caps: titling-caps;
+  text-decoration-line: underline;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Russo+One&display=swap');
+.article_title {
+ font-family: 'Russo One', sans-serif;
+}
+
+footer {
+  font: condensed oblique 12pt "Helvetica Neue", serif;
+}
